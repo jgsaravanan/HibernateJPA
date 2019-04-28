@@ -1,0 +1,13 @@
+com\infiniteskills\data\entities\ids\CurrencyId.class
+com\infiniteskills\data\entities\Budget.class
+com\infiniteskills\data\entities\Account.class
+com\infiniteskills\data\Application.class
+com\infiniteskills\data\entities\Credential.class
+com\infiniteskills\data\HibernateUtil.class
+com\infiniteskills\data\entities\Transaction.class
+com\infiniteskills\data\entities\AccountType.class
+com\infiniteskills\data\entities\Bank.class
+com\infiniteskills\data\entities\User.class
+com\infiniteskills\data\entities\Market.class
+com\infiniteskills\data\entities\Currency.class
+com\infiniteskills\data\entities\Address.class

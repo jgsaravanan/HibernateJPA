@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="Chapter 10:Expressions and Operators:src:main:resources:hibernate.cfg.xml" value="bc19ed43-5bd6-4ee3-827a-a38c2eb60fff" />
+          <unit-entry name="Chapter 10:Functions:src:main:resources:hibernate.cfg.xml" value="3293d96b-f099-4206-ba8d-bda44c62ca9d" />
+          <unit-entry name="Chapter 10:Joins:src:main:resources:hibernate.cfg.xml" value="7296d556-0365-4492-a655-10db7622f7d8" />
+          <unit-entry name="Chapter 10:Lazy Loading:src:main:resources:hibernate.cfg.xml" value="6fe3de5f-8479-41c6-abc4-ba45e0c963fb" />
+          <unit-entry name="Chapter 10:NamedQueries:src:main:resources:hibernate.cfg.xml" value="01698bda-5f80-446d-8aa6-4b7846be8841" />
+          <unit-entry name="Chapter 10:Parameters:src:main:resources:hibernate.cfg.xml" value="bc64f399-7528-4eca-8d5b-f366ba2f92ae" />
+          <unit-entry name="Chapter 10:Writing Queries:src:main:resources:hibernate.cfg.xml" value="366775ca-ea64-4493-99a1-df551b804f4d" />
+          <unit-entry name="Chapter 11:Filtering Data:src:main:resources:hibernate.cfg.xml" value="0764bb63-e0a6-4d7b-b268-8ce0b6b155e3" />
+          <unit-entry name="Chapter 11:Paging:src:main:resources:hibernate.cfg.xml" value="8c410aff-a451-4112-a840-fae3cd3b197a" />
+          <unit-entry name="Chapter 11:Simple Selections:src:main:resources:hibernate.cfg.xml" value="af138c7d-21cc-4c2a-b995-65462999047b" />
+          <unit-entry name="Chapter 3:Hibernate XML Configuration:src:main:resources:hibernate.cfg.xml" value="8950f82b-e3f2-4471-854a-8bf86f9eadc7" />
+          <unit-entry name="Chapter 3:Hibernate XML Configuration:target:classes:hibernate.cfg.xml" value="fca0ce3f-8e9b-4786-a98a-845ab29876b3" />
+          <unit-entry name="Chapter 3:Persistence Methods:src:main:resources:hibernate.cfg.xml" value="d7d62835-9f67-49ae-a870-65f99919ced3" />
+          <unit-entry name="Chapter 4:@Column:src:main:resources:hibernate.cfg.xml" value="4b2889b5-ad5e-4b17-b3b2-1eb95d3eb154" />
+          <unit-entry name="Chapter 4:@Formula:src:main:resources:hibernate.cfg.xml" value="14b2d946-e6b5-4e17-a516-48e5d56f614e" />
+          <unit-entry name="Chapter 4:@Temporal:src:main:resources:hibernate.cfg.xml" value="10c7bea9-54bc-42d6-965d-cd26c099b54b" />
+          <unit-entry name="Chapter 4:@Transient:src:main:resources:hibernate.cfg.xml" value="6209926a-4684-4b9f-9aee-7d1ae36cf57d" />
+          <unit-entry name="Chapter 4:Field vs Property Access:src:main:resources:hibernate.cfg.xml" value="9ddddbc0-64bf-4ad0-a6cc-4a1f560430f8" />
+          <unit-entry name="Chapter 4:Identifiers:src:main:resources:hibernate.cfg.xml" value="7664c872-ad03-4c5a-a5da-c01fd605450f" />
+          <unit-entry name="Chapter 5:Mapping Composite Value Types:src:main:resources:hibernate.cfg.xml" value="303545b8-1b11-47a3-a8f9-b9b6effb4863" />
+          <unit-entry name="Chapter 5:Mapping a Collection of Basic Value Type:src:main:resources:hibernate.cfg.xml" value="38d3de1e-8d40-4ffc-8f0a-c8bb283b98c6" />
+          <unit-entry name="Chapter 5:Mapping a Collection of Composite Types:src:main:resources:hibernate.cfg.xml" value="36c355be-fc7e-4b9b-bb6f-ead6eb39b561" />
+          <unit-entry name="Chapter 5:Mapping a Map of Basic Values:src:main:resources:hibernate.cfg.xml" value="0fddf9d1-f0a6-4201-b2d9-564cad17bf63" />
+          <unit-entry name="Chapter 6:@JoinTable:src:main:resources:hibernate.cfg.xml" value="fa771869-d81b-4d38-a566-dec305a2eabc" />
+          <unit-entry name="Chapter 6:Bidirectional Many to Many Association:src:main:resources:hibernate.cfg.xml" value="11488ae5-a9ed-42ef-92e1-b53b3e153927" />
+          <unit-entry name="Chapter 6:Bidirectional Many to Many Association:target:classes:hibernate.cfg.xml" value="2974d963-64b7-480b-996b-8729bdf0a9e9" />
+          <unit-entry name="Chapter 6:Bidirectional One to Many Association:src:main:resources:hibernate.cfg.xml" value="1341f89c-368e-425d-af7a-b756debe3056" />
+          <unit-entry name="Chapter 6:Bidirectional One to One Association:src:main:resources:hibernate.cfg.xml" value="89f5420a-9143-421d-8c35-5bbfc929627d" />
+          <unit-entry name="Chapter 6:Unidirectional Many to Many Association:src:main:resources:hibernate.cfg.xml" value="978b966f-230e-4041-8aba-b0f0f679be37" />
+          <unit-entry name="Chapter 6:Unidirectional One to Many Association:src:main:resources:hibernate.cfg.xml" value="01886cd9-f387-44b4-ad90-f6a77ef19e50" />
+          <unit-entry name="Chapter 6:Unidirectional One to One Association:src:main:resources:hibernate.cfg.xml" value="4c3f2d9c-a83a-4aae-9f10-9047da949104" />
+          <unit-entry name="Chapter 7:Flushing the Persistence Context:src:main:resources:hibernate.cfg.xml" value="aff6b37b-a20f-4ff2-917e-c4c8636bfc69" />
+          <unit-entry name="Chapter 7:Modifying Entities:src:main:resources:hibernate.cfg.xml" value="2e3b39fd-fa24-4ee0-ba5b-ff1b27e81068" />
+          <unit-entry name="Chapter 7:Reattaching Detached Entities:src:main:resources:hibernate.cfg.xml" value="8b8cbe24-1dc1-45e8-ab15-233c3ce61482" />
+          <unit-entry name="Chapter 7:Removing Entities:src:main:resources:hibernate.cfg.xml" value="acbd563f-4a5c-4d1c-9b90-d8ccbd2b5447" />
+          <unit-entry name="Chapter 7:Retreiving Entities:src:main:resources:hibernate.cfg.xml" value="f7883717-e4c3-410c-be63-7b7d661bb013" />
+          <unit-entry name="Chapter 7:SaveOrUpdate:src:main:resources:hibernate.cfg.xml" value="84cac12a-da88-4ef2-a144-a45a609c1fb8" />
+          <unit-entry name="Chapter 7:Saving Entities:src:main:resources:hibernate.cfg.xml" value="08a7565f-aa31-47d8-9e30-e64e15cab007" />
+          <unit-entry name="Chapter 9:Building a Persistence Layer:src:main:resources:hibernate.cfg.xml" value="3e248fc9-4737-4901-9542-cff0a5f9759f" />
+          <unit-entry name="Chapter 9:Compound Join Columns:src:main:resources:hibernate.cfg.xml" value="7e88b34e-8d8a-47ef-8bf7-69baed36ab70" />
+          <unit-entry name="Chapter 9:Compound Primary Keys:src:main:resources:hibernate.cfg.xml" value="a3253e5c-fcb0-47e3-89fe-32ebf9c00e69" />
+          <unit-entry name="Chapter 9:Enumerations:src:main:resources:hibernate.cfg.xml" value="b0b627ec-94a0-497b-9c32-419a822be084" />
+          <unit-entry name="Chapter 9:Inheritance Single Table:src:main:resources:hibernate.cfg.xml" value="1c1e00ae-cf83-4c77-bc0b-20d49462b7b3" />
+          <unit-entry name="Chapter 9:Inheritance Table per Class:src:main:resources:hibernate.cfg.xml" value="61b8a890-9a64-4223-adea-bec610e5636c" />
+          <unit-entry name="Chapter 9:MappedSuperclass Inheritance:src:main:resources:hibernate.cfg.xml" value="ee01d63c-f4c2-4479-b51f-9d620df9398b" />
+          <unit-entry name="Chapter 9:Schema Generation:src:main:resources:hibernate.cfg.xml" value="11379e81-505a-4533-9b25-9a376fc6991f" />
+          <unit-entry name="Chapter 9:Views for Complex Queries:src:main:resources:hibernate.cfg.xml" value="2591b943-54e0-43b1-b87f-0ddf572acecd" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Expressions and Operators/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Functions/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Joins/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Lazy Loading/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/NamedQueries/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Parameters/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 10/Writing Queries/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 11/Filtering Data/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 11/Paging/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 11/Simple Selections/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 3/Hibernate XML Configuration/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 3/Hibernate XML Configuration/target/classes/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 3/Persistence Methods/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/@Column/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/@Formula/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/@Temporal/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/@Transient/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/Field vs Property Access/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 4/Identifiers/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 5/Mapping Composite Value Types/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 5/Mapping a Collection of Basic Value Type/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 5/Mapping a Collection of Composite Types/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 5/Mapping a Map of Basic Values/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/@JoinTable/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Bidirectional Many to Many Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Bidirectional Many to Many Association/target/classes/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Bidirectional One to Many Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Bidirectional One to One Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Unidirectional Many to Many Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Unidirectional One to Many Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 6/Unidirectional One to One Association/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Flushing the Persistence Context/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Modifying Entities/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Reattaching Detached Entities/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Removing Entities/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Retreiving Entities/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/SaveOrUpdate/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 7/Saving Entities/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Building a Persistence Layer/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Compound Join Columns/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Compound Primary Keys/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Enumerations/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Inheritance Single Table/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Inheritance Table per Class/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/MappedSuperclass Inheritance/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Schema Generation/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Chapter 9/Views for Complex Queries/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Mapping a Collection of Basic Value Type/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/Persistence Methods/src/main/resources/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping>
+          <factory-entry name="Entities" />
+          <factory-entry name="infinite-finances" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/Chapter 11/Filtering Data/src/main/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
